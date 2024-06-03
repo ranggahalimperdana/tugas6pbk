@@ -1,5 +1,6 @@
 <template>
-  <h1>Hello World</h1>
+ <h1 style="font-family: 'Courier New', Courier, monospace;">Data Baru Tersave Sekitar 2-3 menit tergantung jaringan <br>
+    saya menggunakan firestore di firebase untuk menyimpan datanya</h1>
   <div id="app">
     <Content />
   </div>
